@@ -1,1 +1,1 @@
-echo hello
+start https://youtube.be
