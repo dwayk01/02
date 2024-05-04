@@ -1,1 +1,1 @@
-msg hellomoonon
+msg * moonon is newbie
