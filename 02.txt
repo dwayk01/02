@@ -1,1 +1,1 @@
-start https://youtu.be/rtPerkwCi7I?t=10
+start curl parrot.live
