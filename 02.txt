@@ -1,1 +1,4 @@
 start curl ascii.live/forrest
+start curl ascii.live/parrot
+start tree
+start https://youtu.be/xvFZjo5PgG0
