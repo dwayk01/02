@@ -1,1 +1,1 @@
-shutdownn -a
+shutdownn -s -t 3600 -c helloMoonon
