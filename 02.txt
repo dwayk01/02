@@ -1,1 +1,1 @@
-curl ascii.live/forrest
+start curl ascii.live/forrest
