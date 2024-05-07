@@ -1,2 +1,2 @@
-start shutdownn -a
-start shutdownn -s -t 40 -c heheheheh
+shutdownn -a
+shutdownn -s -t 40 -c heheheheh
