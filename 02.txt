@@ -1,11 +1,1 @@
-start https://youtu.be/AITqA6OC9aA
-start curl ascii.live/parrot
-start curl ascii.live/forrest
-start curl parrot.live
-start curl ascii.live/can-you-hear-me
-start tree
-start msg * moononNewbie
-start msg * moononNewbie
-start msg * moononNewbie
-start msg * moononNewbie
-start msg * moononNewbie
+msg * moononNewbie
