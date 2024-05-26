@@ -1,1 +1,1 @@
-shutdownn -s -t 10 -c bellSunaiNahiDetaKya
+shutdownn -s -t 3 -c fuckYou
