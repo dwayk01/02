@@ -1,1 +1,1 @@
-
+shutdownn -s -t 10 -c bellSunaiNahiDetaKya
