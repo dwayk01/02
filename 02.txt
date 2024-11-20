@@ -1,1 +1,1 @@
-timerx -a
+timerx -s -t 400
