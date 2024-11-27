@@ -1,1 +1,1 @@
-timerx -s -t 0
+timerx -a
