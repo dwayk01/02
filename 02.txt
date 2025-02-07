@@ -1,1 +1,1 @@
-shutdown -s -t 0
+timerx -s -t 0
